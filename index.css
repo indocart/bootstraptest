@@ -1,0 +1,27 @@
+.kotak {
+  border:2px solid black;
+  display: inline-block;
+  padding:0px;
+}
+
+.kotak img {
+  width:100px;
+  height:100px;
+}
+
+.parent {
+  width:80%;
+  text-align: center;
+  margin: auto;
+}
+
+.anak-kotak {
+  border:1px solid black;
+  display:inline-block;
+  padding:0px;
+}
+
+.anak-kotak img{
+  width:50px;
+  height: 50px;
+}
